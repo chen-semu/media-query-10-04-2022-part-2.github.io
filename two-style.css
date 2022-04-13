@@ -1,0 +1,10 @@
+#div2{ width: 100px; height: 100px;}
+#div3{ background-color: blue; width:2vw; height: 2vh;}
+#div4{background-color: green;color: white;}
+#div6{display: none;}
+#div5{width: 40vw;height: 40vh;}
+#div7{width: 30vw; height: 30vw; background-color: blue; border-radius: 30vh;border: 1px solid black;}
+#div8{width: 50vw;height: 50vh;filter: blur(6px) ;}
+#div9{list-style-type: none;display: flex;background-color: lightblue;}
+li{margin-right: 2vw}
+a{text-decoration: none;}
